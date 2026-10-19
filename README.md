@@ -16,5 +16,5 @@ Read our [contribution guidelines](./CONTRIBUTING.md) for information about the 
 - Abdullah — [Alphaspirit1908](https://github.com/Alphaspirit1908)
 - Gillani — [muhammad322](https://github.com/muhammad322)
 - Hoang Ngo — [ogngnaoh](https://github.com/ogngnaoh)
-- Huzaifah - [Idk your github](idkyourgithublink)
+- Hudhaifah - [hrehman1](https://github.com/hrehman1)
 
