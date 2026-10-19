@@ -1,19 +1,20 @@
-# Project Repository
+# CurbCut
 
-This repository will be used for team projects.
+CurbCut is a mobile web app that helps people find accessible paths around campus. Users will be able to report barriers, such as broken elevators and blocked ramps, and view reports from others before choosing a route.
 
-Several sets of instructions are included in this repository. They should each be treated as separate assignments with their own due dates and sets of requirements.
+## Origin story
 
-1. See the [App Map & Wireframes](instructions-0a-app-map-wireframes.md) and [Prototyping](./instructions-0b-prototyping.md) instructions for the requirements of the initial user experience design of the app.
+The motivation to built this comes from the barriers typically students face in a campus (both in campus towns and city campuses) where being up to date about construction works, daily malfunctioning incidents, and knowing special routes for reaching from point A to point B on time can either make a good impression to your professor or make you lose the grade!
 
-1. Delete the contents of this file and replace with the contents of a proper README.md, as described in the [project setup instructions](./instructions-0c-project-setup.md)
+# Contributing
 
-1. See the [Sprint Planning instructions](instructions-0d-sprint-planning.md) for the requirements of Sprint Planning for each Sprint.
+Read our [contribution guidelines](./CONTRIBUTING.md) for information about the development workflow, contribution rules, and development environment setup.
 
-1. See the [Front-End Development instructions](./instructions-1-front-end.md) for the requirements of the initial Front-End Development.
 
-1. See the [Back-End Development instructions](./instructions-2-back-end.md) for the requirements of the initial Back-End Development.
+## Team
 
-1. See the [Database Integration instructions](./instructions-3-database.md) for the requirements of integrating a database into the back-end.
+- Abdullah — [Alphaspirit1908](https://github.com/Alphaspirit1908)
+- Gillani — [muhammad322](https://github.com/muhammad322)
+- Hoang Ngo — [ogngnaoh](https://github.com/ogngnaoh)
+- Huzaifah - [Idk your github](idkyourgithublink)
 
-1. See the [Deployment instructions](./instructions-4-deployment.md) for the requirements of deploying an app.
